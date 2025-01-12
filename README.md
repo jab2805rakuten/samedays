@@ -1,6 +1,7 @@
 # samedays
 
 
+*** 
 jeffrey@jabs-MacBook-Pro month % cat -n montest.py        
      1	#!/usr/local/bin/python3
      2	from calendar import Calendar 
@@ -53,4 +54,4 @@ Su Mo Tu We Th Fr Sa
 26 27 28 29 30 31     
 
 
-
+***
